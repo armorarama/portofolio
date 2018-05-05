@@ -13,8 +13,7 @@ Reflection 2
 Bitcoin prediction based on previous data 
 Final Project 
 Data Mining 
-
-	This project was a final project on the data mining class. We were responsible for finding a real-life problem and come up with a solution based on the algorithms we had implemented in class. In most of the classes we learn about the technologies and solving problems with it, but here we worked with a project/problem that everyone would be interested in knowing the outcome. We worked on the problem, decided on the features that were the most important for a good model, implemented the best algorithms to find the one that works best with the best accuracy score, and finally we did data visualization. All these are very important knowledge to have at any job. 
+This project was a final project on the data mining class. We were responsible for finding a real-life problem and come up with a solution based on the algorithms we had implemented in class. In most of the classes we learn about the technologies and solving problems with it, but here we worked with a project/problem that everyone would be interested in knowing the outcome. We worked on the problem, decided on the features that were the most important for a good model, implemented the best algorithms to find the one that works best with the best accuracy score, and finally we did data visualization. All these are very important knowledge to have at any job. 
 
 [https://github.com/armorarama/chatroom_network]
 
@@ -22,7 +21,7 @@ Reflection 3
 Chatroom  
 Final Project 
 Networks 
-	This project is the final project on the network class. In this class we learned about the OSI model, how to work with sockets, web servers, proxy, how to keep multiple connections in one server etc. This assignment in the end was a sum up of everything what we had done in class. We were responsible on creating our own protocol and then program it in the language that we prefer. I worked with a friend on this, and I did the server and she did the client. At the end of the semester, couple groups tested their chatroom by one individual starting up the server, and other students connect to his/her sever. This is all possible because we had implemented the same chatroom. 
+This project is the final project on the network class. In this class we learned about the OSI model, how to work with sockets, web servers, proxy, how to keep multiple connections in one server etc. This assignment in the end was a sum up of everything what we had done in class. We were responsible on creating our own protocol and then program it in the language that we prefer. I worked with a friend on this, and I did the server and she did the client. At the end of the semester, couple groups tested their chatroom by one individual starting up the server, and other students connect to his/her sever. This is all possible because we had implemented the same chatroom. 
 It was very fun to see the chatroom work and, in the end, to be able to connect to one another chatroom. This assignment required a lot of thinking on how all pieces would fit together, understand what to implement as part of the application layer and what for the network layer. 
 
 [https://github.com/armorarama/hangman] 
