@@ -1,8 +1,10 @@
 
 [https://github.com/armorarama/pca_ai]
+
 Principal Component Analysis
-	This was a project that I worked on the Artificial Intelligence class. The objective of this project was to learn more about the PCA algorithm. This algorithm is widely used nowadays and is one of the algorithms that Google Lenses use. PCA transforms large set of variables by keeping only the most significant ones. When working with very big datasets, this algorithm is very helpful not only because it extracts the features that have the highest correlation on the dataset, but it also helps with data visualization. In this assignment, the Iris dataset was used, and the classification algorithm is KNN from sklearn library. 
-	Working on this project helped me in advancing my proficiency in programming with Python, its libraries as well as writing more efficient code. It also gave me the opportunity to explore more AI on my own and how powerful it can be in real-life problems. I was able to connect all the knowledge I got from the class in one project and that is why it was a valuable assignment for me. 
+	
+This was a project that I worked on the Artificial Intelligence class. The objective of this project was to learn more about the PCA algorithm. This algorithm is widely used nowadays and is one of the algorithms that Google Lenses use. PCA transforms large set of variables by keeping only the most significant ones. When working with very big datasets, this algorithm is very helpful not only because it extracts the features that have the highest correlation on the dataset, but it also helps with data visualization. In this assignment, the Iris dataset was used, and the classification algorithm is KNN from sklearn library. 
+Working on this project helped me in advancing my proficiency in programming with Python, its libraries as well as writing more efficient code. It also gave me the opportunity to explore more AI on my own and how powerful it can be in real-life problems. I was able to connect all the knowledge I got from the class in one project and that is why it was a valuable assignment for me. 
 
 [https://github.com/armorarama/DataMining_Cryptocurrency]
 
@@ -25,6 +27,7 @@ I chose this assignment because it was one of the first intense assignment I did
 Both these helped me to choose the best data structure that would work on this by thinking on the efficiency of the program. Not only I advance my coding skills, but I also understood better the meaning of the Big O notation. I coded in Java which is an object-oriented language and I learned how to design, write and test programs that use these types of languages.  
 
 [https://github.com/armorarama/SoftwareEngineering_HAMATH]
+
 Hamath 
 
 This is one of my favorite projects in Westminster. This because it was like a real work place. We worked on a group of 4 and we delivered a software that teaches math to kindergartens by playing a game. Every two classes we would all stand up and talk in front of everyone what we had done during the week, if we had fulfilled the goals that our team had and what would we do next. This was a great technique because we would all be in a lot of pressure to do good because we were in front of the class and there were deadlines every month that needed to be fulfilled. A very interesting class and the project turned out to be functional. 
